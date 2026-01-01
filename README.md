@@ -1,4 +1,4 @@
-# DSA4213 Assignment 3: Fine-tuning DistilBERT for Question Answering
+# Fine-tuning DistilBERT for Question Answering
 By Tan Hwee Li Rachel
 
 ## Project Overview
